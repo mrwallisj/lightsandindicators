@@ -24,3 +24,7 @@ canvas {
 a {
   color: red;
 }
+
+a:visited {
+  color: red;
+}
