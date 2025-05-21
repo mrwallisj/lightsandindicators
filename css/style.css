@@ -20,3 +20,7 @@ canvas {
   align-items: center;      /* Vertical center */
   background-color: #111;
 }
+
+a {
+  color: red;
+}
